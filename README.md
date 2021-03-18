@@ -33,7 +33,7 @@ Hi, i'am Golang Developer from Russia.
 
 - **Rospharm.net**
 
-    Саратов, www.rospharm.net
+    www.rospharm.net
 
     June 2018 — September 2019 1 year 4 month
 
