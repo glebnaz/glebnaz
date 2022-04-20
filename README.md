@@ -2,6 +2,11 @@
 
 Hi, i'am Golang Developer from Russia.
 
+## Education:
+
+> **Saratov State University.** Bachelor of “**Applied mathematics and computer science**”. (2016-2020)
+> 
+
 ## Languages and Tools:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,44 +16,63 @@ Hi, i'am Golang Developer from Russia.
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=glebnaz&layout=compact&theme=radical" />
 </a>
 
-## Work Experience:
+## Work Experience(4 years):
 
-- **Andersen**
+---
 
-    andersenlab.com
+### **[Aliexpress Russia](https://aliexpress.ru/)** Senior Golang Developer, Platform Team (March 2021-now):
 
-    October 2020 — to present
+> My responsibilities include: development of platform libraries for golang. Platform team is developing its own golang-framework to work based on grpcgateway. Since I started my work when the team was just being formed, I designed from the ground up. Our framework includes many different libraries, I worked on: shared-lock by etcd,db; metrics; corewall(graceful shutdown, debug tools, etc).
+The team also supports several platform services: rt-config(realtime config), s2s-auth(service to service auth), dev-portal(Paas). The rt-config service was written only by me.
+Since 2022, I have been a team leader of the dcim(data center infrastructure management) team. Our team is developing its own system for the infrastructure department.
+> 
 
-    Golang Developer
+---
 
-    Development of services on Golang. Development of various microservices, work on projects in the field of Internet banking with the largest Russian banks.
+### [Andersen Lab](https://andersenlab.com/) Middle Golang Developer (September 2020 - March 2021):
 
-- **Wimark**
+> Developed a backend for a large Russian bank Alpha Bank. The main project: a document management system and verification of counterparties. The complexity of this project was that information about companies was collected from different sources, the solution of the problem eventually came down to writing a system similar to map reduce.
+> 
 
-    September 2019 — October 2020 1 year 2 month
+---
 
-    Backend Developer
+### [Wimark Systems](https://wimark.com/) Golang Developer(September 2019 - September 2020):
 
-    Development of golang. Microservices development using mqtt broker. API support for the company's flagship products.
+> Developed backend in golang. One of the interesting projects that had to be developed was a wifi user triangulation system. MongoDB was used as a data warehouse in the company.
+> 
 
-- **Rospharm.net**
+---
 
-    www.rospharm.net
+### Rospharm Junior Golang Developer(September 2018 - September 2019):
 
-    June 2018 — September 2019 1 year 4 month
+> Developed drug reservation systems. Wrote a large number of data importers from api of various large pharmacies. Subsequently, the startup was bought out by Yandex.
+> 
 
-    Web-Developer
+---
 
-    Development of rest api in golang language. Development of proxy api for booking orders in pharmacy chains. The API was built on the gin library. Also, the development of microservices for uploading data from partners and aggregating them into a common database.
+### RainbowSoft(Saratov) Intern - Junior Developer(September 2017 - March 2018):
 
-## Education:
+> Carried out a training project, then developed many admin panels by golang.
+> 
 
-Bachelor in Applied Mathematics and Computer Science
-
-Saratov State University 2016-2020
+---
 
 ## Contacts:
 
- - [Telegram](https://t.me/glebnaz)
- - [LinkedIn](https://www.linkedin.com/in/gleb-nazemnov-97095816a)
- - [Youtube](https://www.youtube.com/channel/UC0y2imcpHCM97-MV1lUQvKg)
+### **Telegram:**
+
+@glebnaz - **preferred contact method**
+
+### **LinkedIn:**
+
+[linkedin.com/in/gleb-nazemnov-97095816a](https://www.linkedin.com/in/gleb-nazemnov-97095816a)
+
+### **Phone:**
+
++79173065223 - Russian
+
++381637738270 - Serbia
+
+### **Email:**
+
+nazemnov.g.a@gmail.com
